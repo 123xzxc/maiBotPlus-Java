@@ -1,6 +1,7 @@
 # maiBotPlus
 
 MaiMai Bot 拓展，提供机厅查询相关功能
+未完成
 
 ## 功能:
 
